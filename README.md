@@ -23,16 +23,38 @@ password: testadmincms
 ## Tech and frameworks used
 
 - React.js
-- JavaScript
-- TypeScript
-- BackEnd Development
-- FrontEnd Development
+- TypeScript | JavaScript
+- Next.js
+- Zustand
+- shadcn/ui Component library
 - zod
-- database
 - Tailwind CSS
 - MySQL
 - Node.js
-- Next.js
-- Sistemas de gestión de contenidos (CMS)
+- Content Management System (CMS)
+- FrontEnd Development
+- BackEnd Development
 - Cloudinary
 - Single-page application (SPA)
+
+## Download and test on local
+
+1. Clone the repo using
+
+```
+git clone https://github.com/diegop985/Modern-Ecommerce.git
+```
+
+2. Go ahead and install npm packages
+
+```
+npm i
+```
+
+3. Start the development server
+
+```
+npm run dev
+```
+
+_To make the app work on local you need multiple environment variables, feel free to reach out to get help running the app_
