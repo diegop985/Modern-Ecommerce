@@ -25,6 +25,7 @@ password: testadmincms
 - React.js
 - TypeScript | JavaScript
 - Next.js
+- Server Side Rendering & Client Side Rendering
 - Zustand
 - shadcn/ui Component library
 - zod
