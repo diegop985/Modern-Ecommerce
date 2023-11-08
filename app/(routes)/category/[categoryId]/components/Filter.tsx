@@ -37,7 +37,7 @@ const Filter = ({ valueKey, name, data }: FilterProps) => {
       { skipNull: true }
     );
 
-    router.push(url);
+    router.push(url, {scroll: false});
   };
 
   return (
